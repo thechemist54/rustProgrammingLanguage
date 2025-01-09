@@ -1,0 +1,1 @@
+/home/thechemist54/CollabProject/rustProgramming/rustProgrammingLanguage/learning_rust/target/release/learning_rust: /home/thechemist54/CollabProject/rustProgramming/rustProgrammingLanguage/learning_rust/src/main.rs
